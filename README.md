@@ -1,1 +1,3 @@
-# CSCU9A1: Introduction to Computing Science (Lectures and Practicals)
+# CSCU9A1: Introduction to Computing Science 
+
+Practicals
